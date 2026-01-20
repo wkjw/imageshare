@@ -1,7 +1,6 @@
 # Cloudflare Image Share
 基于 Cloudflare Pages + R2 实现的私有图片分享(图床)网站。
 
-![image](https://t.mx1700.com/file/StRCFKTWynky.jpeg)
 
 ## 特性
 - [X] ~~telegraph 支持下的无限图片储存空间~~
